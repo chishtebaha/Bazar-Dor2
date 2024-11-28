@@ -39,7 +39,7 @@ export function Partners() {
             href={partner.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="grayscale hover:grayscale-0 transition-all"
+            // className="grayscale hover:grayscale-0 transition-all"
           >
             <img
               src={partner.logo}
